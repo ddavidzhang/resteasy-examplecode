@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ex06_1:war exploded">
+    <output-path>$PROJECT_DIR$/ex06_1/target/ex06_1-1.0</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ex06_1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.jboss.resteasy:resteasy-jaxrs:1.2.GA" />
+          <element id="library" level="project" name="Maven: org.jboss.resteasy:jaxrs-api:1.2.GA" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.5.8" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.5.8" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.5.8" />
+          <element id="library" level="project" name="Maven: org.scannotation:scannotation:1.0.2" />
+          <element id="library" level="project" name="Maven: javassist:javassist:3.6.0.GA" />
+          <element id="library" level="project" name="Maven: javax.annotation:jsr250-api:1.0" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.0" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.0.1" />
+          <element id="library" level="project" name="Maven: net.jcip:jcip-annotations:1.0" />
+          <element id="library" level="project" name="Maven: org.jboss.resteasy:resteasy-jaxb-provider:1.2.GA" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.1.10" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.1" />
+          <element id="library" level="project" name="Maven: com.sun.xml.stream:sjsxp:1.0.1" />
+          <element id="library" level="project" name="Maven: javax.xml.stream:stax-api:1.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ex06_1/target/ex06_1-1.0/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ex06_1/web/Web" />
+    </root>
+  </artifact>
+</component>

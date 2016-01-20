@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex03_1/ex03_1.iml" filepath="$PROJECT_DIR$/ex03_1/ex03_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex04_1/ex04_1.iml" filepath="$PROJECT_DIR$/ex04_1/ex04_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex04_2/ex04_2.iml" filepath="$PROJECT_DIR$/ex04_2/ex04_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex04_3/ex04_3.iml" filepath="$PROJECT_DIR$/ex04_3/ex04_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex05_1/ex05_1.iml" filepath="$PROJECT_DIR$/ex05_1/ex05_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex05_2/ex05_2.iml" filepath="$PROJECT_DIR$/ex05_2/ex05_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex06_1/ex06_1.iml" filepath="$PROJECT_DIR$/ex06_1/ex06_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex06_2/ex06_2.iml" filepath="$PROJECT_DIR$/ex06_2/ex06_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex07_1/ex07_1.iml" filepath="$PROJECT_DIR$/ex07_1/ex07_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex08_1/ex08_1.iml" filepath="$PROJECT_DIR$/ex08_1/ex08_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex08_2/ex08_2.iml" filepath="$PROJECT_DIR$/ex08_2/ex08_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex09_1/ex09_1.iml" filepath="$PROJECT_DIR$/ex09_1/ex09_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex09_2/ex09_2.iml" filepath="$PROJECT_DIR$/ex09_2/ex09_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex10_1/ex10_1.iml" filepath="$PROJECT_DIR$/ex10_1/ex10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11_2/ex11_2.iml" filepath="$PROJECT_DIR$/ex11_2/ex11_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workbook-pom.iml" filepath="$PROJECT_DIR$/workbook-pom.iml" />
+    </modules>
+  </component>
+</project>
